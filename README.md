@@ -1,4 +1,9 @@
-## Hi! My name is Fedor and I live in St. Petersburg. I am a backend developer at python. Glad to see you on my github repository. Have a nice day!
+## About
+
+Hi! My name is Fedor and I live in St. Petersburg. I am a backend developer at python. Glad to see you on my github repository. Have a nice day!
+
+
+## Social links
 
 <a href="https://t.me/MrSm1leMan">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
