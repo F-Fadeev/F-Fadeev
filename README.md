@@ -4,6 +4,7 @@
 I am a backend developer at python.\
 Glad to see you on my github repository.\
 Have a nice day!_**
+<img align="right" alt="GIF" src="https://github.com/F-Fadeev/F-Fadeev/blob/165be9c914cc62a9e480f61d02fd60d2a7221390/coding.gif?raw=true" width="500" height="320" />
 
 
 ## :speech_balloon: Social links
