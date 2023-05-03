@@ -1,21 +1,23 @@
-## About
+## :wink: About 
 
-Hi! My name is Fedor and I live in St. Petersburg. I am a backend developer at python. Glad to see you on my github repository. Have a nice day!
+**_Hi! My name is Fedor, I live in St. Petersburg.\
+I am a backend developer at python.\
+Glad to see you on my github repository.\
+Have a nice day!_**
 
 
-## Social links
+## :speech_balloon: Social links
 
 <a href="https://t.me/MrSm1leMan">
-  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+  <img align="left" alt="Telegram" width="35px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
 </a>
 <a href="https://vk.com/mrsmi1e">
-  <img align="left" alt="Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/288px-VK.com-logo.svg.png" />
+  <img align="left" alt="Twitter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/288px-VK.com-logo.svg.png" />
 </a>
-
 </br>
+</br>    
 
-## Technology stack
-
+## :computer: Technology stack
 
 ***Back-end:***
 
@@ -43,7 +45,7 @@ Hi! My name is Fedor and I live in St. Petersburg. I am a backend developer at p
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## :bar_chart: 𝗦𝘁𝗮𝘁𝘀
 
 ![F-Fadeev github stats](https://github-readme-stats.vercel.app/api?username=F-Fadeev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![F-Fadeev Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Fadeev&layout=compact&count_private=true&theme=tokyonight)
