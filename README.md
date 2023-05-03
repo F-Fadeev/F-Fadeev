@@ -4,7 +4,6 @@
 I am a backend developer at python.\
 Glad to see you on my github repository.\
 Have a nice day!_**
-<img align="right" alt="GIF" src="https://github.com/F-Fadeev/F-Fadeev/blob/165be9c914cc62a9e480f61d02fd60d2a7221390/coding.gif?raw=true" width="500" height="320" />
 
 
 ## :speech_balloon: Social links
@@ -45,6 +44,7 @@ Have a nice day!_**
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
 
+<img align="center" alt="GIF" src="https://github.com/F-Fadeev/F-Fadeev/blob/165be9c914cc62a9e480f61d02fd60d2a7221390/coding.gif?raw=true" width="500" height="320" />
 
 ## :bar_chart: 𝗦𝘁𝗮𝘁𝘀
 
